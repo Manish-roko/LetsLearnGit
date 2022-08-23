@@ -6,6 +6,6 @@ public class Add {
 
 	public static void main(String[] args) {
 
-		System.out.println("Sum of 2 number is :"+(a + b));
+		System.out.println("Sum of 2 number is here :"+(a + b));
 	}
 }
